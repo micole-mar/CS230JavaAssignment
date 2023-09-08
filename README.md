@@ -6,8 +6,8 @@ The aim of this project is to provide students with experience in object-oriente
 Assignment 01:
 The first iteration (this assignment) is a text-based version of the program. The program simply creates and displays the fill color, border color and coordinate information of each shape in the console. However, in A2, you will be using methods like g.drawRect(...), g.fillRect(...), or g.drawPolygon(...) to draw shapes.
 
-\nA1 class: This serves the main program. Do not make any changes in this class.
-\nAnimationViewer class: This is the bouncing area of A1. You are required to add a data field and some methods to this class.
+A1 class: This serves the main program. Do not make any changes in this class.
+AnimationViewer class: This is the bouncing area of A1. You are required to add a data field and some methods to this class.
 Shape class: This acts as the superclass of all shapes in A1. You need to modify two data fields and add some methods to this class.
 ShapeType enum: Complete this enum which defines the shape types of a shape. 
 PathType enum: Complete this enum which defines the path types of a shape.
